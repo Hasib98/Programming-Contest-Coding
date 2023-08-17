@@ -11,4 +11,4 @@ Platform | Title | Solution | language | Date |
 | [Dog Facts](https://kinduff.github.io/dog-api/) | Random facts of Dogs | No | Yes | Yes |
 | [Dogs](https://dog.ceo/dog-api/) | Based on the Stanford Dogs Dataset | No | Yes | Yes |
 
-| [codeforeces](https://codeforces.com/problemset/problem/1841/A) | A. Game with Board | https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Game%20with%20Board.cpp | C++ | 2023-08-18 |
+| [codeforeces](https://codeforces.com/problemset/problem/1841/A) | A. Game with Board | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Game%20with%20Board.cpp) | C++ | 2023-08-18 |
