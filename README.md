@@ -10,3 +10,4 @@ Platform | Title | Solution | language | Date |
 | [spoj](https://www.spoj.com/problems/LCS/) | LCS - Longest Common Substring | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/LCS%20-%20Longest%20Common%20Substring.cpp) | C++ | 2023-08-18 |
 | [spoj](https://www.spoj.com/problems/ARITH/) | ARITH - Simple Arithmetics | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/ARITH%20-%20Simple%20Arithmetics.cpp) | C++ | 2023-08-18 |
 | [spoj](https://www.spoj.com/problems/IKEYB/) | IKEYB - I-Keyboard | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/IKEYB%20-%20I-Keyboard.py) | Python | 2023-08-18 |
+| [codeforeces](https://codeforces.com/problemset/problem/1859/E) | E. Maximum Monogonosity | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/E.%20Maximum%20Monogonosity.py) | Python | 2023-08-18 |
