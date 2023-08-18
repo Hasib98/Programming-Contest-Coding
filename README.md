@@ -12,3 +12,4 @@ Platform | Title | Solution | language | Date |
 | [spoj](https://www.spoj.com/problems/IKEYB/) | IKEYB - I-Keyboard | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/IKEYB%20-%20I-Keyboard.py) | Python | 2023-08-18 |
 | [codeforeces](https://codeforces.com/problemset/problem/1859/E) | E. Maximum Monogonosity | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/E.%20Maximum%20Monogonosity.py) | Python | 2023-08-18 |
 | [spoj](https://www.spoj.com/problems/SHPATH/) | SHPATH - The Shortest Path | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/SHPATH%20-%20The%20Shortest%20Path.cpp) | C++ | 2023-08-18 |
+| [spoj](https://www.spoj.com/problems/SHPATH/) | SHPATH - The Shortest Path | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/SHPATH%20-%20The%20Shortest%20Path.php) | PHP | 2023-08-18 |
