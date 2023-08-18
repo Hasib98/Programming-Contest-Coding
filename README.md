@@ -18,3 +18,4 @@ Platform | Title | Solution | language | Date |
 | [spoj](https://www.spoj.com/problems/SHPATH/) | SHPATH - The Shortest Path | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/SHPATH%20-%20The%20Shortest%20Path.php) | PHP | 2023-08-18 |
 | [spoj](https://www.spoj.com/problems/SHPATH/) | SHPATH - The Shortest Path | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/SHPATH%20-%20The%20Shortest%20Path.cpp) | C++ | 2023-08-18 |
 | [spoj](https://www.spoj.com/problems/SHPATH/) | SHPATH - The Shortest Path | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/SHPATH%20-%20The%20Shortest%20Path.c) | C | 2023-08-18 |
+| [spoj](https://www.spoj.com/problems/SHPATH/) | SHPATH - The Shortest Path | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/SHPATH%20-%20The%20Shortest%20Path.java) | Java | 2023-08-18 |
