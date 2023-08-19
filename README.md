@@ -10,3 +10,4 @@ Platform | Title | Solution | language | Date |
 | [spoj](https://www.spoj.com/problems/PRIME1/) | PRIME1 - Prime Generator | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/PRIME1%20-%20Prime%20Generator.cpp) | C++ | 2023-08-18 |
 | [codeforeces](https://codeforces.com/problemset/problem/158/A) | A. Next Round | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Next%20Round.cpp) | C++ | 2023-08-19 |
 | [codeforeces](https://codeforces.com/problemset/problem/50/A) | A. Domino piling | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Domino%20piling.cpp) | C++ | 2023-08-19 |
+| [codeforeces](https://codeforces.com/problemset/problem/282/A) | A. Bit++ | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Bit++.cpp) | C++ | 2023-08-19 |
