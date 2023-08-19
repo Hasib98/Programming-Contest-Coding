@@ -12,3 +12,4 @@ Platform | Title | Solution | language | Date |
 | [codeforeces](https://codeforces.com/problemset/problem/50/A) | A. Domino piling | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Domino%20piling.cpp) | C++ | 2023-08-19 |
 | [codeforeces](https://codeforces.com/problemset/problem/282/A) | A. Bit++ | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Bit++.cpp) | C++ | 2023-08-19 |
 | [codeforeces](https://codeforces.com/problemset/problem/263/A) | A. Beautiful Matrix | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Beautiful%20Matrix.cpp) | C++ | 2023-08-19 |
+| [codeforeces](https://codeforces.com/problemset/problem/112/A) | A. Petya and Strings | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Petya%20and%20Strings.cpp) | C++ | 2023-08-19 |
