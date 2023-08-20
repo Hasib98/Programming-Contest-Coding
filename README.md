@@ -13,3 +13,4 @@ Platform | Title | Solution | language | Date |
 | [codeforeces](https://codeforces.com/problemset/problem/282/A) | A. Bit++ | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Bit++.cpp) | C++ | 2023-08-19 |
 | [codeforeces](https://codeforces.com/problemset/problem/263/A) | A. Beautiful Matrix | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Beautiful%20Matrix.cpp) | C++ | 2023-08-19 |
 | [codeforeces](https://codeforces.com/problemset/problem/112/A) | A. Petya and Strings | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Petya%20and%20Strings.cpp) | C++ | 2023-08-19 |
+| [codeforeces](https://codeforces.com/problemset/problem/339/A) | A. Helpful Maths | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Helpful%20Maths.cpp) | C++ | 2023-08-20 |
