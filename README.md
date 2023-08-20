@@ -15,4 +15,3 @@ SL | Platform | Title | Solution | language | Date |
 | 10 | [codeforeces](https://codeforces.com/problemset/problem/112/A) | A. Petya and Strings | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Petya%20and%20Strings.cpp) | C++ | 2023-08-19 |
 | 11 | [codeforeces](https://codeforces.com/problemset/problem/339/A) | A. Helpful Maths | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Helpful%20Maths.cpp) | C++ | 2023-08-20 |
 | 12 | [codeforeces](https://codeforces.com/problemset/problem/281/A) | A. Word Capitalization | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Word%20Capitalization.cpp) | C++ | 2023-08-20 |
-| SL | [codeforeces](https://codeforces.com/problemset/problem/1860/C) | C. Game on Permutation | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/C.%20Game%20on%20Permutation.cpp) | C++ | 2023-08-20 |
