@@ -19,3 +19,4 @@ SL | Platform | Title | Solution | language | Date |
 | 13 | [codeforeces](https://codeforces.com/contest/71/problem/A) | A. Way Too Long Words | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Way%20Too%20Long%20Words.cpp) | C++ | 2023-08-16 |
 | 14 | [codeforeces](https://codeforces.com/problemset/problem/236/A) | A. Boy or Girl | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Boy%20or%20Girl.cpp) | C++ | 2023-08-21 |
 | 15 | [codeforeces](https://codeforces.com/problemset/problem/266/A) | A. Stones on the Table | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Stones%20on%20the%20Table.cpp) | C++ | 2023-08-21 |
+| 16 | [codeforeces](https://codeforces.com/problemset/problem/791/A) | A. Bear and Big Brother | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Bear%20and%20Big%20Brother.cpp) | C++ | 2023-08-21 |
