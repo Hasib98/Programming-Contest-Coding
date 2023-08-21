@@ -26,3 +26,4 @@ SL | Platform | Title | Solution | language | Date |
 | 20 | [codeforeces](https://codeforces.com/problemset/problem/236/A) | A. Boy or Girl | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Boy%20or%20Girl.cpp) | C++ | 2023-08-21 |
 | 21 | [codeforeces](https://codeforces.com/problemset/problem/236/A) | A. Boy or Girl | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Boy%20or%20Girl.cpp) | C++ | 2023-08-21 |
 | 22 | [codeforeces](https://codeforces.com/problemset/problem/236/A) | A. Boy or Girl | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Boy%20or%20Girl.cpp) | C++ | 2023-08-21 |
+| 23 | [codeforeces](https://codeforces.com/problemset/problem/236/A) | A. Boy or Girl | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Boy%20or%20Girl.cpp) | C++ | 2023-08-21 |
