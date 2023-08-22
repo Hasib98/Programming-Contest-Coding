@@ -23,6 +23,5 @@ SL | Platform | Title | Solution | language | Date |
 | 17 | [codeforeces](https://codeforces.com/problemset/problem/546/A) | A. Soldier and Bananas | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Soldier%20and%20Bananas.cpp) | C++ | 2023-08-22 |
 | 18 | [codeforeces](https://codeforces.com/problemset/problem/617/A) | A. Elephant | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Elephant.cpp) | C++ | 2023-08-22 |
 | 19 | [codeforeces](https://codeforces.com/problemset/problem/59/A) | A. Word | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Word.cpp) | C++ | 2023-08-22 |
-| 20 | [codeforeces](https://codeforces.com/problemset/problem/59/A) | A. Word | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Word.cpp) | C++ | 2023-08-22 |
-| 21 | [codeforeces](https://codeforces.com/problemset/problem/1709/A) | A. Three Doors | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Three%20Doors.cpp) | C++ | 2023-08-22 |
-| 22 | [codeforeces](https://codeforces.com/problemset/problem/977/A) | A. Wrong Subtraction | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Wrong%20Subtraction.cpp) | C++ | 2023-08-22 |
+| 20 | [codeforeces](https://codeforces.com/problemset/problem/1709/A) | A. Three Doors | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Three%20Doors.cpp) | C++ | 2023-08-22 |
+| 21 | [codeforeces](https://codeforces.com/problemset/problem/977/A) | A. Wrong Subtraction | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Wrong%20Subtraction.cpp) | C++ | 2023-08-22 |
