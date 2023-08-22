@@ -24,3 +24,4 @@ SL | Platform | Title | Solution | language | Date |
 | 18 | [codeforeces](https://codeforces.com/problemset/problem/617/A) | A. Elephant | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Elephant.cpp) | C++ | 2023-08-22 |
 | 19 | [codeforeces](https://codeforces.com/problemset/problem/59/A) | A. Word | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Word.cpp) | C++ | 2023-08-22 |
 | 20 | [codeforeces](https://codeforces.com/problemset/problem/59/A) | A. Word | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Word.cpp) | C++ | 2023-08-22 |
+| 21 | [codeforeces](https://codeforces.com/problemset/problem/1709/A) | A. Three Doors | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Three%20Doors.cpp) | C++ | 2023-08-22 |
