@@ -21,3 +21,4 @@ SL | Platform | Title | Solution | language | Date |
 | 15 | [codeforeces](https://codeforces.com/problemset/problem/266/A) | A. Stones on the Table | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Stones%20on%20the%20Table.cpp) | C++ | 2023-08-21 |
 | 16 | [codeforeces](https://codeforces.com/problemset/problem/791/A) | A. Bear and Big Brother | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Bear%20and%20Big%20Brother.cpp) | C++ | 2023-08-21 |
 | 17 | [codeforeces](https://codeforces.com/problemset/problem/546/A) | A. Soldier and Bananas | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Soldier%20and%20Bananas.cpp) | C++ | 2023-08-22 |
+| 18 | [codeforeces](https://codeforces.com/problemset/problem/617/A) | A. Elephant | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Elephant.cpp) | C++ | 2023-08-22 |
