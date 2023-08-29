@@ -27,3 +27,4 @@ SL | Platform | Title | Solution | language | Date |
 | 21 | [codeforeces](https://codeforces.com/problemset/problem/977/A) | A. Wrong Subtraction | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Wrong%20Subtraction.cpp) | C++ | 2023-08-22 |
 | 22 | [codeforeces](https://codeforces.com/problemset/problem/96/A) | A. Football | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Football.cpp) | C++ | 2023-08-23 |
 | 23 | [codeforeces](https://codeforces.com/problemset/problem/46/A) | A. Ball Game | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Ball%20Game.cpp) | C++ | 2023-08-24 |
+| 24 | [codeforeces](https://codeforces.com/problemset/problem/160/A) | A. Twins | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Twins.cpp) | C++ | 2023-08-29 |
