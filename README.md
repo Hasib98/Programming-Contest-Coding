@@ -30,3 +30,4 @@ SL | Platform | Title | Solution | language | Date |
 | 24 | [codeforeces](https://codeforces.com/problemset/problem/160/A) | A. Twins | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Twins.cpp) | C++ | 2023-08-29 |
 | 25 | [codeforeces](https://codeforces.com/problemset/problem/318/A) | A. Even Odds | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Even%20Odds.cpp) | C++ | 2023-08-30 |
 | 26 | [codeforeces](https://codeforces.com/problemset/problem/133/A) | A. HQ9+ | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20HQ9+.cpp) | C++ | 2023-08-31 |
+| 27 | [codeforeces](https://codeforces.com/problemset/problem/580/A) | A. Kefa and First Steps | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Kefa%20and%20First%20Steps.cpp) | C++ | 2023-08-31 |
