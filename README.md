@@ -33,3 +33,4 @@ SL | Platform | Title | Solution | language | Date |
 | 27 | [codeforeces](https://codeforces.com/problemset/problem/580/A) | A. Kefa and First Steps | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Kefa%20and%20First%20Steps.cpp) | C++ | 2023-08-31 |
 | 28 | [codeforeces](https://codeforces.com/problemset/problem/405/A) | A. Gravity Flip | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Gravity%20Flip.cpp) | C++ | 2023-08-31 |
 | 29 | [codeforeces](https://codeforces.com/problemset/problem/208/A) | A. Dubstep | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Dubstep.cpp) | C++ | 2023-09-01 |
+| 30 | [codeforeces](https://codeforces.com/problemset/problem/337/A) | A. Puzzles | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Puzzles.cpp) | C++ | 2023-09-01 |
