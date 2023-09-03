@@ -37,3 +37,4 @@ SL | Platform | Title | Solution | language | Date |
 | 31 | [codeforeces](https://codeforces.com/problemset/problem/451/A) | A. Game With Sticks | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Game%20With%20Sticks.cpp) | C++ | 2023-09-01 |
 | 32 | [codeforeces](https://codeforces.com/problemset/problem/313/A) | A. Ilya and Bank Account | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Ilya%20and%20Bank%20Account.cpp) | C++ | 2023-09-02 |
 | 33 | [codeforeces](https://codeforces.com/problemset/problem/1475/A) | A. Odd Divisor | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Odd%20Divisor.cpp) | C++ | 2023-09-03 |
+| 34 | [codeforeces](https://codeforces.com/problemset/problem/34/B) | B. Sale | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/B.%20Sale.cpp) | C++ | 2023-09-03 |
