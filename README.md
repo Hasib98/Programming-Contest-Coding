@@ -40,3 +40,4 @@ SL | Platform | Title | Solution | language | Date |
 | 34 | [codeforeces](https://codeforces.com/problemset/problem/34/B) | B. Sale | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/B.%20Sale.cpp) | C++ | 2023-09-03 |
 | 35 | [codeforeces](https://codeforces.com/problemset/problem/460/A) | A. Vasya and Socks | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Vasya%20and%20Socks.cpp) | C++ | 2023-09-04 |
 | 36 | [codeforeces](https://codeforces.com/problemset/problem/1475/B) | B. New Year's Number | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/B.%20New%20Year's%20Number.cpp) | C++ | 2023-09-06 |
+| 37 | [codeforeces](https://codeforces.com/problemset/problem/110/A) | A. Nearly Lucky Number | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Nearly%20Lucky%20Number.cpp) | C++ | 2023-09-06 |
