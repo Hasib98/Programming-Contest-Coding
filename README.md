@@ -44,3 +44,4 @@ SL | Platform | Title | Solution | language | Date |
 | 38 | [codeforeces](https://codeforces.com/problemset/problem/734/A) | A. Anton and Danik | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Anton%20and%20Danik.cpp) | C++ | 2023-09-07 |
 | 39 | [codeforeces](https://codeforces.com/problemset/problem/41/A) | A. Translation | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Translation.cpp) | C++ | 2023-09-08 |
 | 40 | [codeforeces](https://codeforces.com/problemset/problem/271/A) | A. Beautiful Year | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Beautiful%20Year.cpp) | C++ | 2023-09-08 |
+| 41 | [codeforeces](https://codeforces.com/problemset/problem/1343/A) | A. Candies | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Candies.cpp) | C++ | 2023-09-08 |
