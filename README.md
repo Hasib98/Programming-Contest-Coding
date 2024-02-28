@@ -48,3 +48,4 @@ SL | Platform | Title | Solution | language | Date |
 | 42 | [codeforeces](https://codeforces.com/problemset/problem/1374/B) | B. Multiply by 2, divide by 6 | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/B.%20Multiply%20by%202,%20divide%20by%206.cpp) | C++ | 2023-09-09 |
 | 43 | [codeforeces](https://codeforces.com/problemset/problem/474/A) | A. Keyboard | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Keyboard.cpp) | C++ | 2023-09-10 |
 | 44 | [codeforeces](https://codeforces.com/problemset/problem/116/A) | A. Tram | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Tram.cpp) | C++ | 2024-02-27 |
+| 45 | [codeforeces](https://codeforces.com/problemset/problem/677/A) | A. Vanya and Fence | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Vanya%20and%20Fence.cpp) | C++ | 2024-02-28 |
