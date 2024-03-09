@@ -51,3 +51,4 @@ SL | Platform | Title | Solution | language | Date |
 | 45 | [codeforeces](https://codeforces.com/problemset/problem/677/A) | A. Vanya and Fence | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Vanya%20and%20Fence.cpp) | C++ | 2024-02-28 |
 | 46 | [codeforeces](https://codeforces.com/problemset/problem/266/B) | B. Queue at the School | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/B.%20Queue%20at%20the%20School.cpp) | C++ | 2024-03-03 |
 | 47 | [codeforeces](https://codeforces.com/problemset/problem/49/A) | A. Sleuth | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Sleuth.cpp) | C++ | 2024-03-08 |
+| 48 | [codeforeces](https://codeforces.com/problemset/problem/1030/A) | A. In Search of an Easy Problem | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20In%20Search%20of%20an%20Easy%20Problem.cpp) | C++ | 2024-03-09 |
