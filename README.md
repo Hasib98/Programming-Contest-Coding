@@ -52,3 +52,4 @@ SL | Platform | Title | Solution | language | Date |
 | 46 | [codeforeces](https://codeforces.com/problemset/problem/266/B) | B. Queue at the School | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/B.%20Queue%20at%20the%20School.cpp) | C++ | 2024-03-03 |
 | 47 | [codeforeces](https://codeforces.com/problemset/problem/49/A) | A. Sleuth | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Sleuth.cpp) | C++ | 2024-03-08 |
 | 48 | [codeforeces](https://codeforces.com/problemset/problem/1030/A) | A. In Search of an Easy Problem | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20In%20Search%20of%20an%20Easy%20Problem.cpp) | C++ | 2024-03-09 |
+| 49 | [codeforeces](https://codeforces.com/problemset/problem/556/A) | A. Case of the Zeros and Ones | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Case%20of%20the%20Zeros%20and%20Ones.cpp) | C++ | 2024-03-10 |
