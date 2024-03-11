@@ -54,3 +54,4 @@ SL | Platform | Title | Solution | language | Date |
 | 48 | [codeforeces](https://codeforces.com/problemset/problem/1030/A) | A. In Search of an Easy Problem | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20In%20Search%20of%20an%20Easy%20Problem.cpp) | C++ | 2024-03-09 |
 | 49 | [codeforeces](https://codeforces.com/problemset/problem/556/A) | A. Case of the Zeros and Ones | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Case%20of%20the%20Zeros%20and%20Ones.cpp) | C++ | 2024-03-10 |
 | 50 | [codeforeces](https://codeforces.com/problemset/problem/149/A) | A. Business trip | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Business%20trip.cpp) | C++ | 2024-03-10 |
+| 51 | [codeforeces](https://codeforces.com/problemset/problem/977/B) | B. Two-gram | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/B.%20Two-gram.cpp) | C++ | 2024-03-11 |
