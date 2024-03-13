@@ -56,3 +56,4 @@ SL | Platform | Title | Solution | language | Date |
 | 50 | [codeforeces](https://codeforces.com/problemset/problem/149/A) | A. Business trip | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Business%20trip.cpp) | C++ | 2024-03-10 |
 | 51 | [codeforeces](https://codeforces.com/problemset/problem/977/B) | B. Two-gram | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/B.%20Two-gram.cpp) | C++ | 2024-03-11 |
 | 52 | [codeforeces](https://codeforces.com/problemset/problem/492/B) | B. Vanya and Lanterns | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/B.%20Vanya%20and%20Lanterns.cpp) | C++ | 2024-03-12 |
+| 53 | [codeforeces](https://codeforces.com/problemset/problem/467/A) | A. George and Accommodation | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20George%20and%20Accommodation.cpp) | C++ | 2024-03-13 |
