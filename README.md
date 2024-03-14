@@ -58,3 +58,4 @@ SL | Platform | Title | Solution | language | Date |
 | 52 | [codeforeces](https://codeforces.com/problemset/problem/492/B) | B. Vanya and Lanterns | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/B.%20Vanya%20and%20Lanterns.cpp) | C++ | 2024-03-12 |
 | 53 | [codeforeces](https://codeforces.com/problemset/problem/467/A) | A. George and Accommodation | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20George%20and%20Accommodation.cpp) | C++ | 2024-03-13 |
 | 54 | [codeforeces](https://codeforces.com/problemset/problem/200/B) | B. Drinks | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/B.%20Drinks.cpp) | C++ | 2024-03-14 |
+| 55 | [codeforeces](https://codeforces.com/problemset/problem/705/A) | A. Hulk | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Hulk.cpp) | C++ | 2024-03-14 |
