@@ -59,3 +59,4 @@ SL | Platform | Title | Solution | language | Date |
 | 53 | [codeforeces](https://codeforces.com/problemset/problem/467/A) | A. George and Accommodation | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20George%20and%20Accommodation.cpp) | C++ | 2024-03-13 |
 | 54 | [codeforeces](https://codeforces.com/problemset/problem/200/B) | B. Drinks | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/B.%20Drinks.cpp) | C++ | 2024-03-14 |
 | 55 | [codeforeces](https://codeforces.com/problemset/problem/705/A) | A. Hulk | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Hulk.cpp) | C++ | 2024-03-14 |
+| 56 | [codeforeces](https://codeforces.com/problemset/problem/1328/A) | A. Divisibility Problem | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Divisibility%20Problem.cpp) | C++ | 2024-03-16 |
