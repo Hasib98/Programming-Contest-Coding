@@ -63,3 +63,4 @@ SL | Platform | Title | Solution | language | Date |
 | 57 | [codeforeces](https://codeforces.com/problemset/problem/136/A) | A. Presents | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Presents.cpp) | C++ | 2024-03-16 |
 | 58 | [codeforeces](https://codeforces.com/problemset/problem/469/A) | A. I Wanna Be the Guy | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20I%20Wanna%20Be%20the%20Guy.cpp) | C++ | 2024-03-17 |
 | 59 | [codeforeces](https://codeforces.com/problemset/problem/520/A) | A. Pangram | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Pangram.cpp) | C++ | 2024-03-17 |
+| 60 | [codeforeces](https://codeforces.com/problemset/problem/61/A) | A. Ultra-Fast Mathematician | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Ultra-Fast%20Mathematician.cpp) | C++ | 2024-03-18 |
