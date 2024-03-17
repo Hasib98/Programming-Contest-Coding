@@ -61,3 +61,4 @@ SL | Platform | Title | Solution | language | Date |
 | 55 | [codeforeces](https://codeforces.com/problemset/problem/705/A) | A. Hulk | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Hulk.cpp) | C++ | 2024-03-14 |
 | 56 | [codeforeces](https://codeforces.com/problemset/problem/1328/A) | A. Divisibility Problem | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Divisibility%20Problem.cpp) | C++ | 2024-03-16 |
 | 57 | [codeforeces](https://codeforces.com/problemset/problem/136/A) | A. Presents | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Presents.cpp) | C++ | 2024-03-16 |
+| 58 | [codeforeces](https://codeforces.com/problemset/problem/469/A) | A. I Wanna Be the Guy | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20I%20Wanna%20Be%20the%20Guy.cpp) | C++ | 2024-03-17 |
