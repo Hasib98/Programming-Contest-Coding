@@ -66,3 +66,4 @@ SL | Platform | Title | Solution | language | Date |
 | 60 | [codeforeces](https://codeforces.com/problemset/problem/61/A) | A. Ultra-Fast Mathematician | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Ultra-Fast%20Mathematician.cpp) | C++ | 2024-03-18 |
 | 61 | [codeforeces](https://codeforces.com/contest/495/problem/A) | A. Digital Counter | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Digital%20Counter.cpp) | C++ | 2024-03-18 |
 | 62 | [codeforeces](https://codeforces.com/contest/520/problem/A) | A. Pangram | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Pangram.cpp) | C++ | 2024-03-21 |
+| 63 | [codeforeces](https://codeforces.com/problemset/problem/1941/A) | A. Rudolf and the Ticket | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Rudolf%20and%20the%20Ticket.cpp) | C++ | 2024-03-21 |
