@@ -65,3 +65,4 @@ SL | Platform | Title | Solution | language | Date |
 | 59 | [codeforeces](https://codeforces.com/problemset/problem/520/A) | A. Pangram | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Pangram.cpp) | C++ | 2024-03-17 |
 | 60 | [codeforeces](https://codeforces.com/problemset/problem/61/A) | A. Ultra-Fast Mathematician | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Ultra-Fast%20Mathematician.cpp) | C++ | 2024-03-18 |
 | 61 | [codeforeces](https://codeforces.com/contest/495/problem/A) | A. Digital Counter | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Digital%20Counter.cpp) | C++ | 2024-03-18 |
+| 62 | [codeforeces](https://codeforces.com/contest/520/problem/A) | A. Pangram | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Pangram.cpp) | C++ | 2024-03-21 |
