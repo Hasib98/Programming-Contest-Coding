@@ -68,3 +68,4 @@ SL | Platform | Title | Solution | language | Date |
 | 62 | [codeforeces](https://codeforces.com/contest/520/problem/A) | A. Pangram | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Pangram.cpp) | C++ | 2024-03-21 |
 | 63 | [codeforeces](https://codeforces.com/problemset/problem/1941/A) | A. Rudolf and the Ticket | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Rudolf%20and%20the%20Ticket.cpp) | C++ | 2024-03-21 |
 | 64 | [codeforeces](https://codeforces.com/problemset/problem/172/A) | A. Phone Code | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Phone%20Code.cpp) | C++ | 2024-03-22 |
+| 65 | [codeforeces](https://codeforces.com/problemset/problem/421/A) | A. Pasha and Hamsters | [Link](https://github.com/Hasib98/Programming-Contest-Coding/blob/main/A.%20Pasha%20and%20Hamsters.cpp) | C++ | 2024-03-22 |
